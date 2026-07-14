@@ -1,0 +1,3 @@
+@echo off
+echo Launching Lumina Landing Page...
+start index.html
